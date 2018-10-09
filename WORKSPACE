@@ -1,8 +1,8 @@
 http_archive(
     name = "io_bazel_rules_go",
-    strip_prefix = "rules_go-43d7595b0123b5f0cc35bd45c084582b3eb3198b",
+    strip_prefix = "rules_go-436452edc29a2f1e0edc22d180fbb57c27e6d0af",
     urls = [
-        "https://github.com/bazelbuild/rules_go/archive/43d7595b0123b5f0cc35bd45c084582b3eb3198b.tar.gz",
+        "https://github.com/bazelbuild/rules_go/archive/436452edc29a2f1e0edc22d180fbb57c27e6d0af.tar.gz",
     ],
 )
 
